@@ -1,4 +1,4 @@
-# Django Student Management System (beta)
+# Student Management System
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
@@ -43,11 +43,11 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 ## Donate
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
+**+254722808670**
 
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
+**+254722808670**
 
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+**Donate by wire transfer:** E-Mail at *wamaplotytall@gmail.com.com* for wire transfer details. 
 
 
 ## How to Install and Run this project?
